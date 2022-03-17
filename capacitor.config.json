@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "FirstApp-Activity",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
